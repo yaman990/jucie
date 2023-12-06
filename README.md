@@ -9,3 +9,15 @@
 5- https://squeezeit-887c37bd6b52.herokuapp.com/#/
 
 6- https://thejuicer-02c82611e531.herokuapp.com/#/
+
+
+7 - https://bob-the-juicer-4ddadbcaa382.herokuapp.com/#/
+
+
+8- https://extract-the-juice-42acb5e84bc5.herokuapp.com/#/
+
+
+9-https://get-the-juice-7221e24c5120.herokuapp.com/#/
+
+
+10-https://getjuicebox-cf9566bbef60.herokuapp.com/#/
